@@ -88,3 +88,7 @@ footer ul {
     overflow: hidden;
     background-color: #D2D2D2;
 }
+
+.bottom2 li a:hover{
+    text-decoration: none;
+}
