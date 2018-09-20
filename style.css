@@ -41,9 +41,23 @@ input{
     border-style: outset;
     width: 35%;
     padding-left: 16px;
+    font: 400 13.3333px Arial;
 
 }
 
+/*#search {
+    border: none;
+    margin: 0 auto;
+    display: block;
+    width: 459px;
+    height: 42px;
+    padding: 0 15px;
+    font-size: 16px;
+    line-height: 44px;
+    margin-top: -1px;
+    z-index: -255;
+}
+*/
 i{
     color: gray;
 }
